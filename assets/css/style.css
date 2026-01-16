@@ -2198,11 +2198,11 @@ label {
   justify-content: center;
   border-radius: 50%;
   color: var(--gray-color2);
-  border: 1px solid var(--gray-color2);
+  /* border: 1px solid var(--gray-color2); */
 }
 .cs_footer_style_1 .cs_social_btns_style_1 a:hover {
   border-color: var(--dark-blue);
-  background-color: var(--dark-blue);
+  background-color: white;
 }
 .cs_footer_style_1 .cs_vector_shape1 {
   left: 0;
