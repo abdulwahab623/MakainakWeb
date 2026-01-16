@@ -1961,7 +1961,7 @@ label {
 }
 .cs_site_header.cs_style_1.cs_sticky_active {
   top: 0;
-  background-color: var(--primary-color);
+  background-color: var(--dark-blue);
   box-shadow: 0px 1px 2px 0px rgba(2, 0, 181, 0.1);
 }
 .cs_site_header.cs_style_1.cs_sticky_active.cs_type_1 {
